@@ -1,0 +1,133 @@
+main {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+}
+section {
+  height: 80vh;
+  width: 95vw;
+  margin: auto auto;
+  display: flex;
+  justify-content: space-around;
+}
+.div1 {
+  width: 447px;
+  height: 508px;
+  margin: auto auto;
+}
+.div1 h1 {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 90px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div1 p {
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div1 span {
+  width: Hug (447px);
+  height: Hug (32px);
+  top: 702px;
+  left: 288px;
+  gap: 16px;
+}
+.div1 span {
+  color: #6b6b6b;
+  font-size: 20px;
+}
+.div1 span a {
+  text-decoration: none;
+  color: #6b6b6b;
+}
+.div2 {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  height: 80vh;
+}
+.div2div1 {
+  position: relative;
+  width: 370px;
+  height: 85%;
+  padding: 50px;
+  margin-right: 50px;
+  border-radius: 21.781944274902344px;
+  color: #fff;
+  background-color: #2e6434;
+  box-shadow: 0 0 50px #74727251;
+  overflow: hidden;
+}
+.div2div1 h4 {
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div2div1 h3 {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div2div1 p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div2div1 i {
+  font-size: 25px;
+}
+.div2div1 img {
+  position: absolute;
+  width: 420px;
+  height: 400px;
+  bottom: -10px;
+  right: 0px;
+}
+.div2div2 {
+  position: relative;
+  width: 370px;
+  height: 85%;
+  padding: 50px;
+  border-radius: 21px;
+  box-shadow: 0 0 50px #74727251;
+}
+.div2div2 span {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.div2div2 div p {
+  font-size: 20px;
+}
+.div2div2 span {
+  display: flex;
+  align-items: center;
+}
+.div2div2 span p {
+  font-size: 18px;
+}
+.div2div2 button {
+  position: absolute;
+  bottom: 20px;
+  width: 383.36px;
+  height: 69.70222473144531px;
+  padding: 13px 0px 13px 0px;
+  border-radius: 13px;
+  background-color: #2e6434;
+  color: #fff;
+  font-size: 25px;
+  border: none;
+}
